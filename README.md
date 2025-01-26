@@ -1,2 +1,2 @@
 # calculator
-This is a calculator with bassic functions.
+This is a calculator with basic functions.
